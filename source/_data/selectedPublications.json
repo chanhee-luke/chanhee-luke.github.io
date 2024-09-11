@@ -1,0 +1,62 @@
+[
+    {
+        "date": 2024,
+        "tag": "CVPR 2024",
+        "spotlight": "Best Student Paper Award",
+        "name": "BioCLIP: A Vision Foundation Model for the Tree of Life",
+        "authors": "Samuel Stevens, Jiaman Wu, Matthew J Thompson, Elizabeth G Campolongo, Chan Hee Song, David Edward Carlyn, Li Dong, Wasila M Dahdul, Charles Stewart, Tanya Berger-Wolf, Wei-Lun Chao, Yu Su",
+        "paper_url": "https://arxiv.org/abs/2311.18803",
+        "project_url": "https://imageomics.github.io/bioclip/",
+        "code_url": "https://github.com/Imageomics/BioCLIP",
+        "data_url": "https://huggingface.co/datasets/imageomics/TreeOfLife-10M",
+        "slides_url": ""
+     },
+     {
+        "date": 2024,
+        "tag": "CVPR 2024",
+        "spotlight": "",
+        "name": "Dual-View Visual Contextualization for Web Navigation",
+        "authors": "Jihyung Kil, Chan Hee Song, Boyuan Zheng, Xiang Deng, Yu Su, Wei-Lun Chao",
+        "paper_url": "https://arxiv.org/abs/2402.04476",
+        "project_url": "",
+        "code_url": "",
+        "data_url": "",
+        "slides_url": ""
+     },
+     {
+        "date": 2023,
+        "tag": "ICCV 2023",
+        "spotlight": "",
+        "name": "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models",
+        "authors": "Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su",
+        "paper_url": "https://arxiv.org/abs/2212.04088",
+        "project_url": "https://osu-nlp-group.github.io/LLM-Planner/",
+        "code_url": "",
+        "data_url": "",
+        "slides_url": ""
+     },
+     {
+        "date": 2023,
+        "tag": "CVPR 2023",
+        "spotlight": "",
+        "name": "SalsaBot: Towards a Robust and Generalizable Embodied Agent",
+        "authors": "Chan Hee Song, Jiaman Wu, Ju-Seung Byeon, Zexin Xu, Vardaan Pahuja, Goonmeet Bajaj, Samuel Stevens, Ziru Chen, Yu Su",
+        "paper_url": "https://embodied-ai.org/papers/2023/10.pdf",
+        "project_url": "https://assets.amazon.science/ea/b7/0895f4e0468680903efcfd67e795/salsabot-report-1.pdf",
+        "code_url": "",
+        "data_url": "",
+        "slides_url": ""
+     },
+     {
+        "date": 2022,
+        "tag": "CVPR 2022",
+        "spotlight": "",
+        "name": "One Step at a Time: Long-Horizon Vision-and-Language Navigation with Milestones",
+        "authors": "Chan Hee Song, Jihyung Kil, Tai-Yu Pan, Brian M. Sadler, Wei-Lun Chao, Yu Su",
+        "paper_url": "https://arxiv.org/abs/2202.07028",
+        "project_url": "",
+        "code_url": "",
+        "data_url": "",
+        "slides_url": ""
+     }
+]

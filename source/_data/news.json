@@ -1,0 +1,51 @@
+[
+   {
+      "date": "Jun 2024",
+      "content": "BioCLIP won the best student paper award at CVPR 2024! Honored to be part of the team.",
+      "links": {
+         "BioCLIP Code and Model": "https://imageomics.github.io/bioclip/"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "Feb 2024",
+      "content": "BioCLIP, a biology vision foundation model (Oral), and Dual-VCR, a dual-view web-navigation method (Poster) have been accepted to CVPR 2024!",
+      "links": {
+         "BioCLIP": "https://imageomics.github.io/bioclip/",
+         "Dual-VCR": "https://arxiv.org/abs/2402.04476"
+      },
+      "spotlights": ["(Oral)", "(Poster)"]
+   },
+   {
+      "date": "Feb 2024",
+      "content": "I will be interning at Nvidia Learning and Perception Research Group this summer. Catch me in Seattle!",
+      "links": {
+         "Nvidia Learning and Perception Research Group": "https://research.nvidia.com/labs/lpr/"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "Jul 2023",
+      "content": "LLM-Planner, a paper on using large language models for vison-and-language navigation accepted to ICCV 2023.",
+      "links": {
+         "LLM-Planner": "https://osu-nlp-group.github.io/LLM-Planner/"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "Mar 2023",
+      "content": "Our SalsaBot work for Amazon Alexa Prize Challenge has been accepted to the Embodied AI Workshop at CVPR 2023!",
+      "links": {
+         "SalsaBot": "https://embodied-ai.org/papers/2023/10.pdf"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "Mar 2023",
+      "content": "I will be interning at Adobe Research this summer. Catch me in San Jose!</a>",
+      "links": {
+         "Adobe Research": "https://research.adobe.com"
+      },
+      "spotlights": []
+   }
+]

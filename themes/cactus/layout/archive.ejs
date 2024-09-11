@@ -1,0 +1,51 @@
+<div id="archive">
+  <span class="h1">Publications</span>
+  <ul class="post-list">
+    <% var year = 0 %>
+    <% var change = false %>
+    <% var field_sort = theme.archive.sort_updated ? 'updated' : 'date' %>
+    <% for (var paper of site.data.publications) { %>
+      <% var itemYear = paper.date %>
+      <% change = year !== itemYear %>
+      <% year = change ? itemYear : year %>
+      <% if (change) { %>
+        <li class="post-year"><h2><%= year %></h2></li>
+      <% } %>
+      <li class="post-item">
+        <p class="paper-name"><%= paper.name %></p>
+        <p class="authors"><%- unescape(paper.authors.replace(/(Kai Zhang)/gi, '<span>$1</span>')) %></p>
+        <p class="links">
+          <span class="tag"><%= paper.tag %></span>
+          <span class="spotlight"><%= paper.spotlight %></span>
+
+          <% if (paper.paper_url) { %>
+            <a href="<%= paper.paper_url %>">Paper</a>
+          <% } %>
+
+          <% if (paper.project_url) { %>
+            <a href="<%= paper.project_url %>">Website</a>
+          <% } %>
+
+          <% if (paper.code_url) { %>
+            <a href="<%= paper.code_url %>">Code</a>
+          <% } %>
+
+          <% if (paper.data_url) { %>
+            <a href="<%= paper.data_url %>">Data</a>
+          <% } %>
+
+          <% if (paper.reading_list) { %>
+            <a href="<%= paper.reading_list %>">Reading List</a>
+          <% } %>
+
+          <% if (paper.slides_url) { %>
+            <a href="<%= paper.slides_url %>">Slides</a>
+          <% } %>
+
+        </p>
+      </li>
+    <% } %>
+  </ul>
+</div>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
