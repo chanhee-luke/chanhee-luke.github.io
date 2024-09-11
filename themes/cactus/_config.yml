@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: drogozhang.github.io
+projects_url: chanh.ee
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -28,16 +28,16 @@ nav:
 social_links:
   -
     icon: twitter
-    link: https://twitter.com/DrogoKhal4
+    link: https://x.com/luke_ch_song
   -
     icon: linkedin
-    link: https://www.linkedin.com/in/kai-zhang-43774b196
+    link: https://www.linkedin.com/in/lukesonggg/
   -
     icon: github
-    link: https://github.com/drogozhang
+    link: https://github.com/chanhee-luke
   -
     icon: graduation-cap
-    link: https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=IdBL738AAAAJ&hl=en
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -95,12 +95,12 @@ error_404:
 #   - gravatar: whether to use your Gravatar as the logo
 #   - grayout: whether to enable a hover effect on the logo
 logo:
-  enabled: false
+  enabled: true
   width: 50
   height: 50
   url: /images/logo.png
   gravatar: false
-  grayout: true
+  grayout: false
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
@@ -116,10 +116,10 @@ favicon:
     url: /images/logo.png
     gravatar: false
   android:
-    url: /images/logo.png
+    url: /images/android-chrome-192x192.png
     gravatar: false
   apple:
-    url: /images/logo.png
+    url: /images/apple-touch-icon.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
