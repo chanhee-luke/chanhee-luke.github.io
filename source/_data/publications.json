@@ -1,6 +1,18 @@
 [
    {
       "date": 2024,
+      "tag": "Preprint",
+      "spotlight": "",
+      "name": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+      "authors": "Xiao Liu, Tianjie Zhang, Yu Gu, Iat Long Iong, Yifan Xu, Xixuan Song, Shudan Zhang, Hanyu Lai, Xinyi Liu, Hanlin Zhao, Jiadai Sun, Xinyue Yang, Yu Yang, Zehan Qi, Shuntian Yao, Xueqiao Sun, Siyi Cheng, Qinkai Zheng, Hao Yu, Hanchen Zhang, Wenyi Hong, Ming Ding, Lihang Pan, Xiaotao Gu, Aohan Zeng, Zhengxiao Du, Chan Hee Song, Yu Su, Yuxiao Dong, Jie Tang",
+      "paper_url": "https://arxiv.org/abs/2408.06327",
+      "project_url": "",
+      "code_url": "https://github.com/THUDM/VisualAgentBench/tree/main",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2024,
       "tag": "CVPR 2024",
       "spotlight": "Best Student Paper Award",
       "name": "BioCLIP: A Vision Foundation Model for the Tree of Life",
@@ -37,7 +49,7 @@
    },
    {
       "date": 2023,
-      "tag": "CVPR 2023",
+      "tag": "Embodied AI Workshop, CVPR 2023",
       "spotlight": "",
       "name": "SalsaBot: Towards a Robust and Generalizable Embodied Agent",
       "authors": "Chan Hee Song, Jiaman Wu, Ju-Seung Byeon, Zexin Xu, Vardaan Pahuja, Goonmeet Bajaj, Samuel Stevens, Ziru Chen, Yu Su",

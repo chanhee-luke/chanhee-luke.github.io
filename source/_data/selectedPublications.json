@@ -36,17 +36,17 @@
         "slides_url": ""
      },
      {
-        "date": 2023,
-        "tag": "CVPR 2023",
-        "spotlight": "",
-        "name": "SalsaBot: Towards a Robust and Generalizable Embodied Agent",
-        "authors": "Chan Hee Song, Jiaman Wu, Ju-Seung Byeon, Zexin Xu, Vardaan Pahuja, Goonmeet Bajaj, Samuel Stevens, Ziru Chen, Yu Su",
-        "paper_url": "https://embodied-ai.org/papers/2023/10.pdf",
-        "project_url": "https://assets.amazon.science/ea/b7/0895f4e0468680903efcfd67e795/salsabot-report-1.pdf",
-        "code_url": "",
-        "data_url": "",
-        "slides_url": ""
-     },
+         "date": 2023,
+         "tag": "Embodied AI Workshop, CVPR 2023",
+         "spotlight": "",
+         "name": "SalsaBot: Towards a Robust and Generalizable Embodied Agent",
+         "authors": "Chan Hee Song, Jiaman Wu, Ju-Seung Byeon, Zexin Xu, Vardaan Pahuja, Goonmeet Bajaj, Samuel Stevens, Ziru Chen, Yu Su",
+         "paper_url": "https://embodied-ai.org/papers/2023/10.pdf",
+         "project_url": "https://assets.amazon.science/ea/b7/0895f4e0468680903efcfd67e795/salsabot-report-1.pdf",
+         "code_url": "",
+         "data_url": "",
+         "slides_url": ""
+   },
      {
         "date": 2022,
         "tag": "CVPR 2022",
