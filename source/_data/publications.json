@@ -1,6 +1,18 @@
 [
    {
       "date": 2024,
+      "tag": "preprint",
+      "spotlight": "",
+      "name": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+      "authors": "Chan Hee Song, Valts Blukis, Jonathan Tremblay, Stephen Tyree, Yu Su, Stan Birchfield",
+      "paper_url": "",
+      "project_url": "",
+      "code_url": "",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2024,
       "tag": "Preprint",
       "spotlight": "",
       "name": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
