@@ -21,6 +21,8 @@ $ hexo s
 $ hexo clean && hexo d -g
 ```
 
+Remember to switch to gh-pages and commit favicons.
+
 ### Change these:
 
 ```
