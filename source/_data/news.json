@@ -1,5 +1,21 @@
 [
    {
+      "date": "Feb 2025",
+      "content": "VisualAgentBench has been accepted to ICLR 2025.",
+      "links": {
+         "VisualAgentBench": "https://github.com/THUDM/VisualAgentBench"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "Nov 2024",
+      "content": "Excited to present RoboSpatial, a work done at Nvidia. We present a large-scale 2D/3D spatial understanding dataset and benchmark tailored for robotics. Stay tuned for the full release!",
+      "links": {
+         "RoboSpatial": "https://chanh.ee/RoboSpatial"
+      },
+      "spotlights": []
+   },
+   {
       "date": "Jun 2024",
       "content": "BioCLIP won the best student paper award at CVPR 2024! Honored to be part of the team.",
       "links": {

@@ -6,14 +6,14 @@
       "name": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
       "authors": "Chan Hee Song, Valts Blukis, Jonathan Tremblay, Stephen Tyree, Yu Su, Stan Birchfield",
       "paper_url": "https://arxiv.org/abs/2411.16537",
-      "project_url": "",
+      "project_url": "https://chanh.ee/RoboSpatial",
       "code_url": "",
       "data_url": "",
       "slides_url": ""
    },
    {
       "date": 2024,
-      "tag": "Preprint",
+      "tag": "ICLR 2025",
       "spotlight": "",
       "name": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
       "authors": "Xiao Liu, Tianjie Zhang, Yu Gu, Iat Long Iong, Yifan Xu, Xixuan Song, Shudan Zhang, Hanyu Lai, Xinyi Liu, Hanlin Zhao, Jiadai Sun, Xinyue Yang, Yu Yang, Zehan Qi, Shuntian Yao, Xueqiao Sun, Siyi Cheng, Qinkai Zheng, Hao Yu, Hanchen Zhang, Wenyi Hong, Ming Ding, Lihang Pan, Xiaotao Gu, Aohan Zeng, Zhengxiao Du, Chan Hee Song, Yu Su, Yuxiao Dong, Jie Tang",
@@ -48,7 +48,7 @@
       "slides_url": ""
    },
    {
-      "date": 2023,
+      "date": 2022,
       "tag": "ICCV 2023",
       "spotlight": "",
       "name": "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models",

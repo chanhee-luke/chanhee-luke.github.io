@@ -21,7 +21,7 @@ $ hexo s
 $ hexo clean && hexo d -g
 ```
 
-### Important modifies:
+### Change these:
 
 ```
 themes/cactus/layout/archive.ejs
