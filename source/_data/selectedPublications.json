@@ -1,7 +1,7 @@
 [
    {
-      "date": 2024,
-      "tag": "Preprint",
+      "date": 2025,
+      "tag": "CVPR 2025",
       "spotlight": "",
       "name": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
       "authors": "Chan Hee Song, Valts Blukis, Jonathan Tremblay, Stephen Tyree, Yu Su, Stan Birchfield",
@@ -12,7 +12,7 @@
       "slides_url": ""
    },
    {
-      "date": 2024,
+      "date": 2025,
       "tag": "ICLR 2025",
       "spotlight": "",
       "name": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",

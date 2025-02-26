@@ -1,6 +1,14 @@
 [
    {
       "date": "Feb 2025",
+      "content": "RoboSpatial has been accepted to CVPR 2025!",
+      "links": {
+         "RoboSpatial": "https://chanh.ee/RoboSpatial"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "Feb 2025",
       "content": "VisualAgentBench has been accepted to ICLR 2025.",
       "links": {
          "VisualAgentBench": "https://github.com/THUDM/VisualAgentBench"
