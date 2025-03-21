@@ -1,5 +1,13 @@
 [
    {
+      "date": "March 2025",
+      "content": "Interning at Google Cloud AI Research this summer working on multimodal agents. Catch me (again) in Seattle!",
+      "links": {
+         "Google Cloud AI Research": "https://research.google/teams/cloud-ai/"
+      },
+      "spotlights": []
+   },
+   {
       "date": "Feb 2025",
       "content": "RoboSpatial has been accepted to CVPR 2025 with a perfect 5,5,5 score!",
       "links": {
