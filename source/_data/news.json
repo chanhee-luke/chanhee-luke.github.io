@@ -9,11 +9,11 @@
    },
    {
       "date": "Feb 2025",
-      "content": "RoboSpatial has been accepted to CVPR 2025 with a perfect 5,5,5 score!",
+      "content": "RoboSpatial (Oral) has been accepted to CVPR 2025 with a perfect 5,5,5 score!",
       "links": {
          "RoboSpatial": "https://chanh.ee/RoboSpatial"
       },
-      "spotlights": []
+      "spotlights": ["(Oral)"]
    },
    {
       "date": "Feb 2025",
@@ -25,7 +25,7 @@
    },
    {
       "date": "Nov 2024",
-      "content": "Excited to present RoboSpatial, a work done at Nvidia. We present a large-scale 2D/3D spatial understanding dataset and benchmark tailored for robotics. Stay tuned for the full release!",
+      "content": "Excited to present RoboSpatial, a work partly done at Nvidia. We present a large-scale 2D/3D spatial understanding dataset and benchmark tailored for robotics. Stay tuned for the full release!",
       "links": {
          "RoboSpatial": "https://chanh.ee/RoboSpatial"
       },
