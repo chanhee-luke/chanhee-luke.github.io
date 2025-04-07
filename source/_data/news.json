@@ -1,5 +1,13 @@
 [
    {
+      "date": "April 2025",
+      "content": "Released Online-Mind2Web benchmark, showing current web agents are far less capable than reported.",
+      "links": {
+         "Online-Mind2Web": "https://arxiv.org/abs/2504.01382"
+      },
+      "spotlights": []
+   },
+   {
       "date": "March 2025",
       "content": "Interning at Google Cloud AI Research this summer working on multimodal agents. Catch me (again) in Seattle!",
       "links": {
