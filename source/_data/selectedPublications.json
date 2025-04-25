@@ -7,7 +7,7 @@
       "authors": "Chan Hee Song, Valts Blukis, Jonathan Tremblay, Stephen Tyree, Yu Su, Stan Birchfield",
       "paper_url": "https://arxiv.org/abs/2411.16537",
       "project_url": "https://chanh.ee/RoboSpatial",
-      "code_url": "",
+      "code_url": "https://github.com/NVlabs/RoboSpatial",
       "data_url": "https://huggingface.co/datasets/chanhee-luke/RoboSpatial-Home",
       "slides_url": ""
    },
