@@ -9,7 +9,7 @@
       "date": "April 2025",
       "content": "Released Online-Mind2Web benchmark, showing current web agents are far less capable than reported.",
       "links": {
-         "Online-Mind2Web": "https://arxiv.org/abs/2504.01382"
+         "Online-Mind2Web": "https://github.com/OSU-NLP-Group/Online-Mind2Web"
       },
       "spotlights": []
    },

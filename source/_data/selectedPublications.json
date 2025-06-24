@@ -38,12 +38,12 @@
    {
       "date": 2023,
       "tag": "ICCV 2023",
-      "spotlight": "Top 15 Most Cited Paper at ICCV 2023",
+      "spotlight": "Top 5 Most Cited AI Paper on arXiv (2022)",
       "name": "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models",
       "authors": "Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su",
       "paper_url": "https://arxiv.org/abs/2212.04088",
       "project_url": "https://osu-nlp-group.github.io/LLM-Planner/",
-      "code_url": "",
+      "code_url": "https://github.com/OSU-NLP-Group/LLM-Planner",
       "data_url": "",
       "slides_url": ""
    },
