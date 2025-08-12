@@ -38,7 +38,7 @@
    {
       "date": 2025,
       "tag": "ICLR 2025",
-      "spotlight": "",
+      "spotlight": "Featured in Stanford AI Index 2025",
       "name": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
       "authors": "Xiao Liu, Tianjie Zhang, Yu Gu, Iat Long Iong, Yifan Xu, Xixuan Song, Shudan Zhang, Hanyu Lai, Xinyi Liu, Hanlin Zhao, Jiadai Sun, Xinyue Yang, Yu Yang, Zehan Qi, Shuntian Yao, Xueqiao Sun, Siyi Cheng, Qinkai Zheng, Hao Yu, Hanchen Zhang, Wenyi Hong, Ming Ding, Lihang Pan, Xiaotao Gu, Aohan Zeng, Zhengxiao Du, Chan Hee Song, Yu Su, Yuxiao Dong, Jie Tang",
       "paper_url": "https://arxiv.org/abs/2408.06327",
