@@ -1,8 +1,10 @@
 [
     {
       "date": "August 2025",
-      "content": "Honored to serve as an Area Chair for ICLR 2026!",
-      "links": {},
+      "content": "Honored to serve as an Area Chair for ICLR 2026.",
+      "links": {
+         "ICLR 2026":"https://iclr.cc"
+      },
       "spotlights": []
    },
    {
@@ -15,8 +17,11 @@
    },
    {
       "date": "June 2025",
-      "content": "Honored to attend CVPR Doctoral Consortium to connect with other researchers.",
-      "links": {},
+      "content": "Selected to attend CVPR Doctoral Consortium to connect with senior researchers. I'll be mentored by Prof. Katerina Fragkiadaki (CMU).",
+      "links": {
+         "CVPR Doctoral Consortium": "https://cvpr.thecvf.com/Conferences/2025/CallForDoctoralConsortium",
+         "Katerina Fragkiadaki": "https://www.cs.cmu.edu/~katef/"
+      },
       "spotlights": []
    },
    {
