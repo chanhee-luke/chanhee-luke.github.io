@@ -1,5 +1,31 @@
-[
-    {
+[  
+   {
+      "date": "October 2025",
+      "content": "I’m seeking full-time research opportunities starting in early 2026. Please let me know if my experience aligns with your interests!",
+      "links": {
+
+      },
+      "spotlights": []
+   },
+   {
+      "date": "September 2025",
+      "content": "Thrilled to see that RoboSpatial is used by Qwen3-VL and Gemini Robotics! Spatial understanding is the next frontier for MLLMs.",
+      "links": {
+         "RoboSpatial": "https://chanh.ee/RoboSpatial",
+         "Qwen3-VL":"https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list",
+         "Gemini Robotics": "https://storage.googleapis.com/deepmind-media/gemini-robotics/Gemini-Robotics-1-5-Tech-Report.pdf"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "September 2025",
+      "content": "Excited to organize Eval&Deploy workshop at CoRL 2025. Also attended by first robotics conference.",
+      "links": {
+         "Eval&Deploy":"https://eval-deploy.github.io"
+      },
+      "spotlights": []
+   },
+   {
       "date": "August 2025",
       "content": "Honored to serve as an Area Chair for ICLR 2026.",
       "links": {
