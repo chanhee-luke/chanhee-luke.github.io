@@ -8,12 +8,21 @@
       "spotlights": []
    },
    {
+      "date": "October 2025",
+      "content": "Watch and Learn, a framework that learns from Internet videos to enhance computer use agents, was featured in VentureBeat!",
+      "links": {
+         "Watch and Learn" : "https://arxiv.org/abs/2510.04673",
+         "VentureBeat" : "https://venturebeat.com/ai/googles-watch-and-learn-framework-cracks-the-data-bottleneck-for-training"
+      },
+      "spotlights": []
+   },
+   {
       "date": "September 2025",
       "content": "Thrilled to see that RoboSpatial is used by Qwen3-VL and Gemini Robotics! Spatial understanding is the next frontier for MLLMs.",
       "links": {
          "RoboSpatial": "https://chanh.ee/RoboSpatial",
          "Qwen3-VL":"https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list",
-         "Gemini Robotics": "https://storage.googleapis.com/deepmind-media/gemini-robotics/Gemini-Robotics-1-5-Tech-Report.pdf"
+         "Gemini Robotics": "https://arxiv.org/abs/2510.03342"
       },
       "spotlights": []
    },

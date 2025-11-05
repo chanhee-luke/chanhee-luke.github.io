@@ -1,4 +1,16 @@
 [
+      {
+      "date": 2025,
+      "tag": "preprint",
+      "spotlight": "Media coverage by VentureBeat",
+      "name": "Watch and Learn: Learning to Use Computers from Online Videos",
+      "authors": "Chan Hee Song, Yiwen Song, Palash Goyal, Yu Su, Oriana Riva, Hamid Palangi, Tomas Pfister",
+      "paper_url": "https://arxiv.org/abs/2510.04673",
+      "project_url": "",
+      "code_url": "",
+      "data_url": "",
+      "slides_url": ""
+   },
    {
       "date": 2025,
       "tag": "CVPR 2025",
@@ -9,18 +21,6 @@
       "project_url": "https://chanh.ee/RoboSpatial",
       "code_url": "https://github.com/NVlabs/RoboSpatial",
       "data_url": "https://huggingface.co/datasets/chanhee-luke/RoboSpatial-Home",
-      "slides_url": ""
-   },
-      {
-      "date": 2025,
-      "tag": "ICLR 2025",
-      "spotlight": "Featured in Stanford AI Index Report 2025",
-      "name": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
-      "authors": "Xiao Liu, Tianjie Zhang, Yu Gu, Iat Long Iong, Yifan Xu, Xixuan Song, Shudan Zhang, Hanyu Lai, Xinyi Liu, Hanlin Zhao, Jiadai Sun, Xinyue Yang, Yu Yang, Zehan Qi, Shuntian Yao, Xueqiao Sun, Siyi Cheng, Qinkai Zheng, Hao Yu, Hanchen Zhang, Wenyi Hong, Ming Ding, Lihang Pan, Xiaotao Gu, Aohan Zeng, Zhengxiao Du, Chan Hee Song, Yu Su, Yuxiao Dong, Jie Tang",
-      "paper_url": "https://arxiv.org/abs/2408.06327",
-      "project_url": "",
-      "code_url": "https://github.com/THUDM/VisualAgentBench/tree/main",
-      "data_url": "",
       "slides_url": ""
    },
    {

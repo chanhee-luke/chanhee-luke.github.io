@@ -2,11 +2,23 @@
    {
       "date": 2025,
       "tag": "preprint",
-      "spotlight": "",
+      "spotlight": "Media coverage by VentureBeat",
       "name": "Watch and Learn: Learning to Use Computers from Online Videos",
       "authors": "Chan Hee Song, Yiwen Song, Palash Goyal, Yu Su, Oriana Riva, Hamid Palangi, Tomas Pfister",
       "paper_url": "https://arxiv.org/abs/2510.04673",
       "project_url": "",
+      "code_url": "",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2025,
+      "tag": "MTI-LLM Workshop, NeurIPS 2025",
+      "spotlight": "",
+      "name": "WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation",
+      "authors": "Yaoyao Qian, Yuanli Wang, Jinda Zhang, Yun Zong, Meixu Chen, Hanhan Zhou, Jindan Huang, Yifan Zeng, Xinyu Hu, Chan Hee Song, Danqing Zhang",
+      "paper_url": "https://arxiv.org/abs/2510.19205",
+      "project_url": "https://webgrapheval-webpage.vercel.app",
       "code_url": "",
       "data_url": "",
       "slides_url": ""
