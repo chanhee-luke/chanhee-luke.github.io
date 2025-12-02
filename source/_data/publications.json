@@ -1,4 +1,16 @@
 [
+      {
+      "date": 2025,
+      "tag": "preprint",
+      "spotlight": "",
+      "name": "SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL",
+      "authors": "Siyi Chen, Mikaela Angelina Uy, Chan Hee Song, Faisal Ladhak, Adithyavairavan Murali, Qing Qu, Stan Birchfield, Valts Blukis, Jonathan Tremblay",
+      "paper_url": "",
+      "project_url": "",
+      "code_url": "",
+      "data_url": "",
+      "slides_url": ""
+   },
    {
       "date": 2025,
       "tag": "preprint",
