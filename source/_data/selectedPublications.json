@@ -2,7 +2,10 @@
    {
       "date": 2026,
       "tag": "CVPR 2026",
-      "spotlight": "Media coverage by VentureBeat",
+      "spotlight": [
+        {"text": "Media coverage by "},
+        {"text": "VentureBeat", "url": "https://venturebeat.com/ai/googles-watch-and-learn-framework-cracks-the-data-bottleneck-for-training"}
+      ],
       "name": "Watch and Learn: Learning to Use Computers from Online Videos",
       "authors": "Chan Hee Song, Yiwen Song, Palash Goyal, Yu Su, Oriana Riva, Hamid Palangi, Tomas Pfister",
       "paper_url": "https://arxiv.org/abs/2510.04673",
@@ -26,7 +29,14 @@
    {
       "date": 2025,
       "tag": "CVPR 2025",
-      "spotlight": "Oral (0.74%) / Part of GR00T N1.5 / Used by Qwen3-VL & Gemini Robotics",
+      "spotlight": [
+        {"text": "Oral (0.74%) / Part of "},
+        {"text": "GR00T N1.5", "url": "https://research.nvidia.com/labs/gear/gr00t-n1_5/"},
+        {"text": " / Used by "},
+        {"text": "Qwen3-VL", "url": "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list"},
+        {"text": " & "},
+        {"text": "Gemini Robotics", "url": "https://arxiv.org/abs/2510.03342"}
+      ],
       "name": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
       "authors": "Chan Hee Song, Valts Blukis, Jonathan Tremblay, Stephen Tyree, Yu Su, Stan Birchfield",
       "paper_url": "https://arxiv.org/abs/2411.16537",
@@ -50,7 +60,11 @@
    {
       "date": 2023,
       "tag": "ICCV 2023",
-      "spotlight": "Top 5 Most Cited AI Paper on arXiv (2022)",
+      "spotlight": [
+        {"text": "Top 5 "},
+        {"text": "Most Cited", "url": "https://resources.paperdigest.org/2025/09/most-influential-arxiv-artificial-intelligence-papers-2025-09-version/"},
+        {"text": " AI Paper on arXiv (2022)"}
+      ],
       "name": "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models",
       "authors": "Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su",
       "paper_url": "https://arxiv.org/abs/2212.04088",

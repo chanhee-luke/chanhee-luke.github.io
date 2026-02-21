@@ -16,7 +16,7 @@
         <p class="authors"><%- unescape(paper.authors.replace(/(Chan Hee Song)/gi, '<span>$1</span>')) %></p>
         <p class="links">
           <span class="tag"><%= paper.tag %></span>
-          <span class="spotlight"><%= paper.spotlight %></span>
+          <span class="spotlight"><% if (Array.isArray(paper.spotlight)) { %><% for (var seg of paper.spotlight) { %><% if (seg.url) { %><a href="<%= seg.url %>" target="_blank" rel="noopener"><%= seg.text %></a><% } else { %><%= seg.text %><% } %><% } %><% } else { %><%- paper.spotlight %><% } %></span>
 
           <% if (paper.paper_url) { %>
             <a href="<%= paper.paper_url %>">Paper</a>
