@@ -30,12 +30,13 @@
       "date": 2025,
       "tag": "CVPR 2025",
       "spotlight": [
-        {"text": "Oral (0.74%) / Part of "},
-        {"text": "GR00T N1.5", "url": "https://research.nvidia.com/labs/gear/gr00t-n1_5/"},
+        {"text": "Oral (0.74%)"},
         {"text": " / Used by "},
         {"text": "Qwen3-VL", "url": "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list"},
+        {"text": " , "},
+        {"text": "Gemini Robotics", "url": "https://arxiv.org/abs/2510.03342"},
         {"text": " & "},
-        {"text": "Gemini Robotics", "url": "https://arxiv.org/abs/2510.03342"}
+        {"text": "GR00T N1.5", "url": "https://research.nvidia.com/labs/gear/gr00t-n1_5/"}
       ],
       "name": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
       "authors": "Chan Hee Song, Valts Blukis, Jonathan Tremblay, Stephen Tyree, Yu Su, Stan Birchfield",
