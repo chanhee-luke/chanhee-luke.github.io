@@ -1,12 +1,24 @@
 [
-      {
-      "date": 2025,
-      "tag": "preprint",
+   {
+      "date": 2026,
+      "tag": "CVPR 2026",
       "spotlight": "Media coverage by VentureBeat",
       "name": "Watch and Learn: Learning to Use Computers from Online Videos",
       "authors": "Chan Hee Song, Yiwen Song, Palash Goyal, Yu Su, Oriana Riva, Hamid Palangi, Tomas Pfister",
       "paper_url": "https://arxiv.org/abs/2510.04673",
       "project_url": "",
+      "code_url": "",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2026,
+      "tag": "CVPR 2026",
+      "spotlight": "",
+      "name": "SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL",
+      "authors": "Siyi Chen, Mikaela Angelina Uy, Chan Hee Song, Faisal Ladhak, Adithyavairavan Murali, Qing Qu, Stan Birchfield, Valts Blukis, Jonathan Tremblay",
+      "paper_url": "https://arxiv.org/abs/2512.04069",
+      "project_url": "https://spacetools.github.io",
       "code_url": "",
       "data_url": "",
       "slides_url": ""

@@ -1,9 +1,18 @@
 [  
    {
-      "date": "October 2025",
-      "content": "I’m seeking full-time research opportunities starting in early 2026. Please let me know if my experience aligns with your interests!",
+      "date": "Feburary 2026",
+      "content": "We’re excited to announce the Embodied Reasoning in Action Workshop at CVPR 2026, where RoboSpatial will be featured as one of the official challenges - join us and submit your work!",
       "links": {
-
+         "Embodied Reasoning in Action Workshop" : "https://embodied-reasoning.github.io"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "Feburary 2026",
+      "content": "Happy to have Watch and Learn and SpaceTools accepted to CVPR 2026!",
+      "links": {
+         "Watch and Learn" : "https://arxiv.org/abs/2510.04673",
+         "SpaceTools" : "https://spacetools.github.io"
       },
       "spotlights": []
    },
