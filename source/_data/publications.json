@@ -1,6 +1,42 @@
 [
    {
       "date": 2026,
+      "tag": "Preprint",
+      "spotlight": "",
+      "name": "VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation",
+      "authors": "Siyi Chen, Hugo Hadfield, Alex Zook, Mikaela Angelina Uy, Chan Hee Song, Erwin Coumans, Xuning Yang, Faisal Ladhak, Qing Qu, Stan Birchfield, Jonathan Tremblay, Valts Blukis",
+      "paper_url": "https://arxiv.org/abs/2606.07723",
+      "project_url": "https://chicychen.github.io/VoLo/",
+      "code_url": "",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2026,
+      "tag": "Preprint",
+      "spotlight": "",
+      "name": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "authors": "Seokju Cho, Ryo Hachiuma, Abhishek Badki, Hang Su, Byung-Kwan Lee, Chan Hee Song, Sifei Liu, Subhashree Radhakrishnan, Seungryong Kim, Yu-Chiang Frank Wang, Min-Hung Chen",
+      "paper_url": "https://arxiv.org/abs/2606.13673",
+      "project_url": "https://spatialclaw.github.io",
+      "code_url": "https://github.com/NVlabs/SpatialClaw",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2026,
+      "tag": "ECCV 2026",
+      "spotlight": "",
+      "name": "Why Far Looks Up: Probing Spatial Representation in Vision-Language Models",
+      "authors": "Cheolhong Min, Jaeyun Jung, Daeun Lee, Hyeonseong Jeon, Yu Su, Jonathan Tremblay, Chan Hee Song†‡, Jaesik Park†",
+      "paper_url": "https://arxiv.org/abs/2605.30161",
+      "project_url": "https://cheolhong0916.github.io/whyfarlooksup.github.io/",
+      "code_url": "https://github.com/cheolhong0916/contrastive-probing",
+      "data_url": "https://huggingface.co/datasets/cubec/spatialtunnel",
+      "slides_url": ""
+   },
+   {
+      "date": 2026,
       "tag": "CVPR 2026",
       "spotlight": [
          {"text": "Media coverage by "},
@@ -22,7 +58,7 @@
       "authors": "Siyi Chen, Mikaela Angelina Uy, Chan Hee Song, Faisal Ladhak, Adithyavairavan Murali, Qing Qu, Stan Birchfield, Valts Blukis, Jonathan Tremblay",
       "paper_url": "https://arxiv.org/abs/2512.04069",
       "project_url": "https://spacetools.github.io",
-      "code_url": "",
+      "code_url": "https://github.com/spacetools/SpaceTools",
       "data_url": "",
       "slides_url": ""
    },

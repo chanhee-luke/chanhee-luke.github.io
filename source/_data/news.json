@@ -1,5 +1,39 @@
 [  
    {
+      "date": "June 2026",
+      "content": "Happy to have Why Far Looks Up accepted to ECCV 2026! Hej, see you in Sweden!",
+      "links": {
+         "Why Far Looks Up": "https://cheolhong0916.github.io/whyfarlooksup.github.io/"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "June 2026",
+      "content": "Introducing two new projects toward agentic spatial intelligence in robotics: SpatialClaw leverages tools and code for open-ended 3D and 4D spatial reasoning, while VoLo orchestrates perception and manipulation tools for open-vocabulary, long-horizon manipulation.",
+      "links": {
+         "SpatialClaw": "https://spatialclaw.github.io",
+         "VoLo": "https://chicychen.github.io/VoLo/"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "May 2026",
+      "content": "Excited to release Why Far Looks Up, a diagnostic study on the importance of internal spatial representations for robust spatial understanding in vision-language models.",
+      "links": {
+         "Why Far Looks Up": "https://cheolhong0916.github.io/whyfarlooksup.github.io/",
+         "Paper": "https://arxiv.org/abs/2605.30161"
+      },
+      "spotlights": []
+   },
+   {
+      "date": "April 2026",
+      "content": "Serving as an Area Chair for NeurIPS 2026",
+      "links": {
+         
+      },
+      "spotlights": []
+   },
+   {
       "date": "Feburary 2026",
       "content": "We’re excited to announce the Embodied Reasoning in Action Workshop at CVPR 2026, where RoboSpatial will be featured as one of the official challenges - join us and submit your work!",
       "links": {

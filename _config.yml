@@ -5,8 +5,8 @@
 # Site
 title: ''
 subtitle: ''
-description: 'I am a CS PhD candidate at The Ohio State University. My research focuses on grounding foundation models for embodied intelligence, working on robotics and CUAs.'
-keywords:
+description: 'Researcher at NVIDIA Metropolis working on agentic spatial intelligence for robotics and the physical world. PhD from The Ohio State University.'
+keywords: robotics, embodied AI, spatial intelligence, foundation models, NVIDIA
 author: Chan Hee (Luke) Song
 language: en
 timezone: ''
@@ -102,6 +102,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/chanhee-luke/chanhee-luke.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
+  repo: git@github.com:chanhee-luke/chanhee-luke.github.io.git
   branch: gh-pages
