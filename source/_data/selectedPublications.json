@@ -1,0 +1,86 @@
+[
+   {
+      "date": 2026,
+      "tag": "Preprint",
+      "spotlight": "",
+      "name": "VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation",
+      "authors": "Siyi Chen, Hugo Hadfield, Alex Zook, Mikaela Angelina Uy, Chan Hee Song, Erwin Coumans, Xuning Yang, Faisal Ladhak, Qing Qu, Stan Birchfield, Jonathan Tremblay, Valts Blukis",
+      "paper_url": "https://arxiv.org/abs/2606.07723",
+      "project_url": "https://chicychen.github.io/VoLo/",
+      "code_url": "",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2026,
+      "tag": "Preprint",
+      "spotlight": "",
+      "name": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "authors": "Seokju Cho, Ryo Hachiuma, Abhishek Badki, Hang Su, Byung-Kwan Lee, Chan Hee Song, Sifei Liu, Subhashree Radhakrishnan, Seungryong Kim, Yu-Chiang Frank Wang, Min-Hung Chen",
+      "paper_url": "https://arxiv.org/abs/2606.13673",
+      "project_url": "https://spatialclaw.github.io",
+      "code_url": "https://github.com/NVlabs/SpatialClaw",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2026,
+      "tag": "ECCV 2026",
+      "spotlight": "",
+      "name": "Why Far Looks Up: Probing Spatial Representation in Vision-Language Models",
+      "authors": "Cheolhong Min, Jaeyun Jung, Daeun Lee, Hyeonseong Jeon, Yu Su, Jonathan Tremblay, Chan Hee Song†‡, Jaesik Park†",
+      "paper_url": "https://arxiv.org/abs/2605.30161",
+      "project_url": "https://cheolhong0916.github.io/whyfarlooksup.github.io/",
+      "code_url": "https://github.com/cheolhong0916/contrastive-probing",
+      "data_url": "https://huggingface.co/datasets/cubec/spatialtunnel",
+      "slides_url": ""
+   },
+   {
+      "date": 2026,
+      "tag": "CVPR 2026",
+      "spotlight": "",
+      "name": "SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL",
+      "authors": "Siyi Chen, Mikaela Angelina Uy, Chan Hee Song, Faisal Ladhak, Adithyavairavan Murali, Qing Qu, Stan Birchfield, Valts Blukis, Jonathan Tremblay",
+      "paper_url": "https://arxiv.org/abs/2512.04069",
+      "project_url": "https://spacetools.github.io",
+      "code_url": "https://github.com/spacetools/SpaceTools",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2025,
+      "tag": "CVPR 2025",
+      "spotlight": [
+        {"text": "Oral (0.74%)"},
+        {"text": " / Used by "},
+        {"text": "Qwen3-VL", "url": "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list"},
+        {"text": " , "},
+        {"text": "Gemini Robotics", "url": "https://arxiv.org/abs/2510.03342"},
+        {"text": " & "},
+        {"text": "GR00T N1.5", "url": "https://research.nvidia.com/labs/gear/gr00t-n1_5/"}
+      ],
+      "name": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+      "authors": "Chan Hee Song, Valts Blukis, Jonathan Tremblay, Stephen Tyree, Yu Su, Stan Birchfield",
+      "paper_url": "https://arxiv.org/abs/2411.16537",
+      "project_url": "https://chanh.ee/RoboSpatial",
+      "code_url": "https://github.com/NVlabs/RoboSpatial",
+      "data_url": "https://huggingface.co/datasets/chanhee-luke/RoboSpatial-Home",
+      "slides_url": ""
+   },
+   {
+      "date": 2023,
+      "tag": "ICCV 2023",
+      "spotlight": [
+        {"text": "Top 5 "},
+        {"text": "Most Cited", "url": "https://resources.paperdigest.org/2025/09/most-influential-arxiv-artificial-intelligence-papers-2025-09-version/"},
+        {"text": " AI Paper on arXiv (2022)"}
+      ],
+      "name": "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models",
+      "authors": "Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su",
+      "paper_url": "https://arxiv.org/abs/2212.04088",
+      "project_url": "https://osu-nlp-group.github.io/LLM-Planner/",
+      "code_url": "https://github.com/OSU-NLP-Group/LLM-Planner",
+      "data_url": "",
+      "slides_url": ""
+   }
+]
